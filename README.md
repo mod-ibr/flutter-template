@@ -1,10 +1,10 @@
-# tell_me
+# Flutter Template
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+flutter template for : splash screen - on time intro screen - sheared prefs - color theme provider - dark theme
 
 A few resources to get you started if this is your first Flutter project:
 
